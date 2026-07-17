@@ -62,7 +62,7 @@ It does not:
 
 ## Repository
 
-https://github.com/screamkface/ClinDiary-Gemma4Good
+https://github.com/nicolamoscufo/ClinDiary-Gemma4Good
 
 ## Demo video
 
