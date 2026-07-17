@@ -106,6 +106,10 @@ scripts/       Utility scripts, when relevant
 
 Installation instructions for the submitted Android demo APK are available in [`docs/hackathon/INSTALLATION.md`](docs/hackathon/INSTALLATION.md).
 
+- [GitHub repository](https://github.com/nicolamoscufo/ClinDiary-Gemma4Good)
+- [Kaggle hackathon write-up](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1775203997753)
+- [Demo video](https://www.youtube.com/shorts/W0eBKD5ZMtU)
+
 ## Privacy statement
 
 ClinDiary is designed around a simple principle: personal health context should remain close to the user whenever possible.

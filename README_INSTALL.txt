@@ -39,7 +39,7 @@ Safety note:
 ClinDiary is a hackathon prototype. It is not a medical device. It does not diagnose, prescribe medication, change dosages, triage emergencies, or replace clinical care.
 
 Repository:
-https://github.com/screamkface/Clin-Diary---Gemma
+https://github.com/nicolamoscufo/ClinDiary-Gemma4Good
 
 Demo video:
 https://www.youtube.com/shorts/W0eBKD5ZMtU
